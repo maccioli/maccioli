@@ -1,6 +1,6 @@
 # Olá, <img src="https://github.com/maccioli/hello-world/blob/main/icon.png?raw=true" width=40 height=40> 
 
-Meu nome é Márcio José Accioli de Vasconcellos, sou **Full-Stack Developer**. Minha jornada na área de tecnologia começou no final dos anos 90, quando me envolvi no desenvolvimento autônomo de sites entre 1997 e 2000. Em 1998, tive a honra de ser co-autor do livro 
+Meu nome é Márcio José Accioli de Vasconcellos, sou **Full-Stack Developer**. Minha jornada na área de tecnologia começou no final dos anos 90, quando me envolvi no desenvolvimento autônomo de sites entre 1997 e 2000. Em 1998, fui co-autor do livro 
 "**A Internet e os Hackers, Ataques e Defesas**", que se tornou um best-seller naquela época.
 
 Em seguida, explorei diferentes caminhos profissionais, incluindo o comércio, onde desempenhei funções de vendas e gerenciamento em uma loja Apple Premium Reseller de 2007 a 2015. Foi uma experiência incrivel e valiosa, mas a vida me reservou mais aventuras.
