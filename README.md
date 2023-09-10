@@ -14,11 +14,11 @@ Vamos codar juntos!
 
 ## Hard Skills :
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://github.com/maccioli/maccioli/assets/42103535/3f6291ff-2c2e-474a-8e44-c26333da9506)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.js](https://github.com/maccioli/maccioli/assets/42103535/3f6291ff-2c2e-474a-8e44-c26333da9506)
 
 #### Você me encontra aqui:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioaccioli/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maccioli2021) [![Zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521988888401)
 
 <a href="mailto:mjaccioli@gmail.com">📧 Envie um e-mail</a>
 
-
+![Principais_Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maccioli&theme=dracula&hide_border=true&custom_title=Principais%20%Linguagens)
