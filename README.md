@@ -8,7 +8,7 @@ Em seguida, explorei diferentes caminhos profissionais, incluindo o comércio, o
 Descobri gosto pela culinária e empreendedorismo e embarquei em um negócio próprio de delivery de refeições, 
 explorando qualidade dos produtos ofertados e superando as expectativas de atendimento aos clientes.
 
-No ano de 2023, decidi mergulhar de cabeça no mundo do desenvolvimento back-end, focando em JavaScript e Node.js. Estou muito entusiasmado de retornar a essa área e com essa nova jornada, muito ansioso para aprender e crescer no campo da programação.
+No ano de 2023, decidi mergulhar de cabeça no mundo do desenvolvimento back-end, focando em JavaScript e Node.js. Estou muito entusiasmado de retornar a essa área, nessa nova jornada de minha vida, muito ansioso para aprender mais e crescer no campo da programação.
 
 Vamos codar juntos!
 
